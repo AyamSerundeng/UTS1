@@ -3,14 +3,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package babelnaik;
-
-import java.util.Scanner;
 /**
  *
  * @author HYPE AMD
  */
 public class BabelNaik {
-
     /**
      * @param args the command line arguments
      */
