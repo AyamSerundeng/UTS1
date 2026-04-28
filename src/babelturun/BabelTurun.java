@@ -13,7 +13,6 @@ public class BabelTurun {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Hardcode array sesuai soal
         int[] A = {200, 50, 10, 4, 300, 1};
         int i, j, swap;
 
